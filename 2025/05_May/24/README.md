@@ -122,7 +122,8 @@ MUSIC
 TOO LONG
 !-->
 
-- I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure how this is going to work, as I also have to play AdVenture Communist after 10:00 pm, so I will have limited time for both games. - 2025, Saturday, May 24th
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure how this is going to work, as I also have to play AdVenture Communist after 10:00 pm, so I will have limited time for both games. - 2025, Saturday, May 24th~~
+- I resumed gameplay for a second consecutive week, playing for a longish period of time, playing in the night, and going into the earty morning, quitting at 12:50 am. I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, May 24th
 
 ***
 
@@ -166,10 +167,11 @@ TOO LONG
 - My session was skipped today. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - The game required an update today. Unlike the AdVenture Communist update, it didn't negatively impact gameplay. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- The game required an update today. It was a 10 year anniversary update. It didn't seem to negatively impact gameplay, other than the fact that every time I took a screenshot, or looked at my notifications, the music would pause. - 2025, Saturday, May 17th
 
 </details>
 
-- The game required an update today. It was a 10 year anniversary update. It didn't seem to negatively impact gameplay, other than the fact that every time I took a screenshot, or looked at my notifications, the music would pause. - 2025, Saturday, May 17th
+- The game did not require an update this week. - 2025, Saturday, May 24th
 
 </details>
 
@@ -230,10 +232,11 @@ TOO LONG
 - My session was skipped today. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. An ad glitched the game out during this time. - 2025, Saturday, May 17th
 
 </details>
 
-- On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. An ad glitched the game out during this time. - 2025, Saturday, May 17th
+- On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. I needed to do a reset on Earth, but I didn't have the time. - 2025, Saturday, May 24th
 
 </details>
 
@@ -288,10 +291,11 @@ TOO LONG
 - My session was skipped today. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. Unfortunately, after my 77 day hiatus, I was unable to double my offline earnings, or double my angel claim, as I feared an ad would crash the game, and take away all earnings. I would try this again on Mars. - 2025, Saturday, May 17th
 
 </details>
 
-- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. Unfortunately, after my 77 day hiatus, I was unable to double my offline earnings, or double my angel claim, as I feared an ad would crash the game, and take away all earnings. I would try this again on Mars. - 2025, Saturday, May 17th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 24th
 
 </details>
 
@@ -359,10 +363,11 @@ TOO LONG
 - My session was skipped today. - 2024, Saturday, December 7th to 2025, Saturday, February 22nd
 - On Capitalist Mars today, I made a little amount of progress, before leaving for the weekly event. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
+- On Capitalist Mars today, I made a little amount of progress, before doing an angel claim, making most of my progress back, then leaving for the weekly event. - 2025, Saturday, May 17th
 
 </details>
 
-- On Capitalist Mars today, I made a little amount of progress, before doing an angel claim, making most of my progress back, then leaving for the weekly event. - 2025, Saturday, May 17th
+- On Capitalist Mars today, I made a little amount of progress, playing for a while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 24th
 
 </details>
 
@@ -463,12 +468,13 @@ TOO LONG
 - I played the Cashella event for a long amount of time, and made some progress, splitting my event session into 2 parts. I eventually forced myself to quit, due to a severe time shortage. I managed to get the first 6 rewards in this time. - 2024, Saturday, July 6th
 - I played the Cashella event for a long amount of time, and made some progress. Progress was slow this time, but I managed to get the first 6 rewards before quitting. I eventually forced myself to quit, due to a severe time shortage, and low battery. - 2024, Saturday, August 17th
 - I played the Cashella event for a very long amount of time, and made significant progress. I made it further in this event than I have in any event to date, getting to the point where I was maxing out businesses. I earned the first 9 rewards, and stocked up 37,330 event points. I feel the recent update made it possible to advance so much faster. I eventually found a stopping point, and quit. - 2024, Saturday, September 28th
+- I did not play the event this week, even though it was active. I just didn't have the time. - 2024, Saturday, November 16th
 
 </details>
 
-- I did not play the event this week, even though it was active. I just didn't have the time. - 2024, Saturday, November 16th
+- I played the Cashella event for a long amount of time, and made notable progress. I earned the first 6 rewards, and stocked up 9,130 event points. I eventually found a stopping point, and quit, as it was getting very late. I accidentally used a time warp while playing in the event. - 2025, Saturday, May 24th
 
-</details> <!-- End of cashalot event entries !-->
+</details> <!-- End of Cashella event entries !-->
 
 ---
 
@@ -687,7 +693,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, May 24th at 10:48 am PST)`
+**File version:** `2 (2025, Sunday, May 25th at 03:13 pm PST)`
 
 </details>
 
