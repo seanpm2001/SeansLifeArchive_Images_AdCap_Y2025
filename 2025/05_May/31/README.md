@@ -120,11 +120,13 @@ TOO LONG
 - My session was skipped today, due to a lack of time. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - I resumed gameplay after a 77 day hiatus, playing for a long period of time, and using up a lot of time for today, inching a little bit into my work time (but not too much, as I had woken up pretty early) I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, May 17th
 - ~~I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure how this is going to work, as I also have to play AdVenture Communist after 10:00 pm, so I will have limited time for both games. - 2025, Saturday, May 24th~~
-- I resumed gameplay for a second consecutive week, playing for a longish period of time, playing in the night, and going into the earty morning, quitting at 12:50 am. I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, May 24th
+- I resumed gameplay for a second consecutive week, playing for a longish period of time, playing in the night, and going into the early morning, quitting at 12:50 am. I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, May 24th
 
 </details>
 
-- I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if gameplay will be guaranteed. I considered playing AdVenture Communist this morning, so that I would have more time to play at night, but decided to do other things instead. - 2025, Saturday, May 31st
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if gameplay will be guaranteed. I considered playing AdVenture Communist this morning, so that I would have more time to play at night, but decided to do other things instead.~~
+- I resumed gameplay for a third consecutive week, playing for a long period of time, playing in the night, and going into the early morning, quitting at 1:34 am, going way longer than I should have. I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, May 31st
+
 
 ***
 
@@ -172,7 +174,7 @@ TOO LONG
 
 </details>
 
-- The game did not require an update this week. - 2025, Saturday, May 24th
+- The game did not require an update this week. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
 
 </details>
 
@@ -234,10 +236,11 @@ TOO LONG
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. An ad glitched the game out during this time. - 2025, Saturday, May 17th
+- On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. I needed to do a reset on Earth, but I didn't have the time. - 2025, Saturday, May 24th
 
 </details>
 
-- On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. I needed to do a reset on Earth, but I didn't have the time. - 2025, Saturday, May 24th
+- On Capitalist Earth today, I did collection, and some upgrades for a while, before deciding to do an angel claim. It took a while to make it back up to where I was. Afterwards, I left for the moon. - 2025, Saturday, May 31st
 
 </details>
 
@@ -293,10 +296,11 @@ TOO LONG
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. Unfortunately, after my 77 day hiatus, I was unable to double my offline earnings, or double my angel claim, as I feared an ad would crash the game, and take away all earnings. I would try this again on Mars. - 2025, Saturday, May 17th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 24th
 
 </details>
 
-- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 24th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 31st
 
 </details>
 
@@ -365,10 +369,11 @@ TOO LONG
 - On Capitalist Mars today, I made a little amount of progress, before leaving for the weekly event. - 2025, Saturday, March 1st
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - On Capitalist Mars today, I made a little amount of progress, before doing an angel claim, making most of my progress back, then leaving for the weekly event. - 2025, Saturday, May 17th
+- On Capitalist Mars today, I made a little amount of progress, playing for a while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 24th
 
 </details>
 
-- On Capitalist Mars today, I made a little amount of progress, playing for a while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 24th
+- On Capitalist Mars today, I made a small amount of progress, playing for a little while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 31st
 
 </details>
 
@@ -508,10 +513,11 @@ TOO LONG
 - I played the Saturday Morning Fever event for an excessively long amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 5 rewards, at the cost of multiple hours of time, and several time warps. I eventually wrapped up and quit. - 2024, Saturday, August 24th
 - I played the Saturday Morning Fever event for a long amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 5 rewards, and stocked up 6,040 event points, at the cost of a couple hours of time, and several time warps. I eventually wrapped up and quit. - 2024, Saturday, October 5th
 - I played the Saturday Morning Fever event for a long amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 5 rewards, and stocked up 5,350 event points, at the cost of going over my time limit, and 5 time warps. I eventually wrapped up and quit. - 2024, Saturday, November 23rd
+- I played the Saturday Morning Fever event for a shortened amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 2 rewards, and stocked up 1,155 event points. I eventually wrapped up and quit. - 2025, Saturday, March 1st
 
 </details>
 
-- I played the Saturday Morning Fever event for a shortened amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 2 rewards, and stocked up 1,155 event points. I eventually wrapped up and quit. - 2025, Saturday, March 1st
+- I played the Saturday Morning Fever event for a long amount of time. I made some progress, then I eventually wrapped up and quit. I earned the first 4 rewards, and stocked up 3,050 event points. At one point, I accidentally used a time warp, which helped me quit faster, but was not something I meant to do, and I was a bit frustrated by it, as I keep earning time warps, then wasting them before I can build up even more. I eventually wrapped up and quit. - 2025, Saturday, May 31st
 
 </details> <!-- End of saturday morning fever event entries !-->
 
@@ -694,7 +700,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, May 31st at 01:23 pm PST)`
+**File version:** `2 (2025, Sunday, June 1st at 02:39 pm PST)`
 
 </details>
 
