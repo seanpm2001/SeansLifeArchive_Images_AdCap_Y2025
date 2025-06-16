@@ -129,6 +129,7 @@ TOO LONG
 </details>
 
 - I did not play the game yet today, I plan to play after 10:00 pm, but I am not sure if I will get to it today. - 2025, Saturday, June 14th
+- I resumed gameplay after a 2 week pause, playing for a long period of time, playing in the night, and going into the early morning, quitting at 12:58 am, going longer than I should have. I played on Earth, the Moon, and Mars, and spent a notable amount of time in the event. - 2025, Saturday, June 14th
 
 ***
 
@@ -178,6 +179,7 @@ TOO LONG
 </details>
 
 - My session was skipped today. - 2025, Saturday, June 7th
+- The game did not require an update this week. - 2025, Saturday, June 14th
 
 </details>
 
@@ -241,10 +243,11 @@ TOO LONG
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. An ad glitched the game out during this time. - 2025, Saturday, May 17th
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. I needed to do a reset on Earth, but I didn't have the time. - 2025, Saturday, May 24th
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before deciding to do an angel claim. It took a while to make it back up to where I was. Afterwards, I left for the moon. - 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 7th
+- On Capitalist Earth today, I did collection, and some upgrades for a little while, making some brief progress. Afterwards, I left for the moon. - 2025, Saturday, June 14th
 
 </details>
 
@@ -302,10 +305,11 @@ TOO LONG
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. Unfortunately, after my 77 day hiatus, I was unable to double my offline earnings, or double my angel claim, as I feared an ad would crash the game, and take away all earnings. I would try this again on Mars. - 2025, Saturday, May 17th
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 24th
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 7th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, June 14th
 
 </details>
 
@@ -376,10 +380,11 @@ TOO LONG
 - On Capitalist Mars today, I made a little amount of progress, before doing an angel claim, making most of my progress back, then leaving for the weekly event. - 2025, Saturday, May 17th
 - On Capitalist Mars today, I made a little amount of progress, playing for a while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 24th
 - On Capitalist Mars today, I made a small amount of progress, playing for a little while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 7th
+- On Capitalist Mars today, I made a small amount of progress, playing for a short amount of time, before wrapping up, and leaving for the weekly event. - 2025, Saturday, June 14th
 
 </details>
 
@@ -406,10 +411,11 @@ TOO LONG
 - I played the Capitalist Cakeday event for a very long amount of time this week, making a considerable amount of progress, and eventually forcing myself to quit. I received the first 6 rewards, and split gameplay into 2 parts. After several angel claims and time extensions, I eventually ended my session. - 2024, Saturday, June 15th
 - I played the Capitalist Cakeday event for an excessively long amount of time this week, making a considerable amount of progress, and eventually forcing myself to quit. I received the first 7 rewards. After several angel claims and time extensions, I eventually ended my session. - 2024, Saturday, July 27th
 - I played the Capitalist Cakeday event for an excessively long amount of time this week, making a considerable amount of progress, and eventually forcing myself to quit. I received the first 7 rewards, and stocked up 18,700 event points. After several angel claims and time extensions, I eventually ended my session. - 2024, Saturday, September 7th
+- I played the Capitalist Cakeday event for an excessively long amount of time this week, making a considerable amount of progress, and eventually forcing myself to quit. I received the first 7 rewards, and stocked up 18,125 event points. I also used a time warp accidentally. After several angel claims and time extensions, I eventually ended my session. - 2024, Saturday, October 20th
 
 </details>
 
-- I played the Capitalist Cakeday event for an excessively long amount of time this week, making a considerable amount of progress, and eventually forcing myself to quit. I received the first 7 rewards, and stocked up 18,125 event points. I also used a time warp accidentally. After several angel claims and time extensions, I eventually ended my session. - 2024, Saturday, October 20th
+- I played the Capitalist Cakeday event for a long amount of time this week, making a moderate amount of progress, and eventually forcing myself to quit. I received the first 5 rewards, and stocked up 5,985 event points. I also used 2 time warps accidentally. - 2025, Saturday, June 14th
 
 </details> <!-- End of capitalist cakeday event entries !-->
 
@@ -706,7 +712,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, June 14th at 03:38 pm PST)`
+**File version:** `2 (2025, Sunday, June 15th at 04:05 pm PST)`
 
 </details>
 
