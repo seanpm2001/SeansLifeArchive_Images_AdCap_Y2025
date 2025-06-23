@@ -130,7 +130,8 @@ TOO LONG
 
 </details>
 
-- I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it. - 2025, Saturday, June 21st
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it.~~
+- I ended up skipping my session today, as I needed more sleep. I had a difficult day, and needed to go to bed earlier. - 2025, Saturday, June 21st
 
 ***
 
@@ -181,6 +182,7 @@ TOO LONG
 
 - My session was skipped today. - 2025, Saturday, June 7th
 - The game did not require an update this week. - 2025, Saturday, June 14th
+- My session was skipped today. - 2025, Saturday, June 21st
 
 </details>
 
@@ -249,6 +251,7 @@ TOO LONG
 </details>
 
 - On Capitalist Earth today, I did collection, and some upgrades for a little while, making some brief progress. Afterwards, I left for the moon. - 2025, Saturday, June 14th
+- My session was skipped today. - 2025, Saturday, June 21st
 
 </details>
 
@@ -311,6 +314,7 @@ TOO LONG
 </details>
 
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, June 14th
+- My session was skipped today. - 2025, Saturday, June 21st
 
 </details>
 
@@ -386,6 +390,7 @@ TOO LONG
 </details>
 
 - On Capitalist Mars today, I made a small amount of progress, playing for a short amount of time, before wrapping up, and leaving for the weekly event. - 2025, Saturday, June 14th
+- My session was skipped today. - 2025, Saturday, June 21st
 
 </details>
 
@@ -713,7 +718,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, June 21st at 02:28 pm PST)`
+**File version:** `2 (2025, Sunday, June 22nd at 03:19 pm PST)`
 
 </details>
 
