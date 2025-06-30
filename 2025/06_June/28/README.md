@@ -132,7 +132,8 @@ TOO LONG
 
 </details>
 
-- I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it. - 2025, Saturday, June 28th
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it.~~
+- I ended up skipping my session today, as I needed to go to bed earlier, and felt like spending my time differently. - 2025, Saturday, June 28th
 
 ***
 
@@ -178,12 +179,12 @@ TOO LONG
 - My session was skipped today. - 2025, Saturday, March 8th to 2025, Saturday, May 10th
 - The game required an update today. It was a 10 year anniversary update. It didn't seem to negatively impact gameplay, other than the fact that every time I took a screenshot, or looked at my notifications, the music would pause. - 2025, Saturday, May 17th
 - The game did not require an update this week. - 2025, Saturday, May 24th to 2025, Saturday, May 31st
+- My session was skipped today. - 2025, Saturday, June 7th
+- The game did not require an update this week. - 2025, Saturday, June 14th
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 7th
-- The game did not require an update this week. - 2025, Saturday, June 14th
-- My session was skipped today. - 2025, Saturday, June 21st
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, June 28th
 
 </details>
 
@@ -248,11 +249,11 @@ TOO LONG
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before leaving for the Moon. I needed to do a reset on Earth, but I didn't have the time. - 2025, Saturday, May 24th
 - On Capitalist Earth today, I did collection, and some upgrades for a while, before deciding to do an angel claim. It took a while to make it back up to where I was. Afterwards, I left for the moon. - 2025, Saturday, May 31st
 - My session was skipped today. - 2025, Saturday, June 7th
+- On Capitalist Earth today, I did collection, and some upgrades for a little while, making some brief progress. Afterwards, I left for the moon. - 2025, Saturday, June 14th
 
 </details>
 
-- On Capitalist Earth today, I did collection, and some upgrades for a little while, making some brief progress. Afterwards, I left for the moon. - 2025, Saturday, June 14th
-- My session was skipped today. - 2025, Saturday, June 21st
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, June 28th
 
 </details>
 
@@ -311,11 +312,11 @@ TOO LONG
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 24th
 - On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, May 31st
 - My session was skipped today. - 2025, Saturday, June 7th
+- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, June 14th
 
 </details>
 
-- On the Capitalist Moon today, I did brief collection, then did an angel claim, before spending some time getting everything back up, before I later left and went to Capitalist Mars. I am only gaining a small amount of angels every week, I am still trying to figure out how to progress faster. - 2025, Saturday, June 14th
-- My session was skipped today. - 2025, Saturday, June 21st
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, June 28th
 
 </details>
 
@@ -387,11 +388,11 @@ TOO LONG
 - On Capitalist Mars today, I made a little amount of progress, playing for a while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 24th
 - On Capitalist Mars today, I made a small amount of progress, playing for a little while, before wrapping up, and leaving for the weekly event. - 2025, Saturday, May 31st
 - My session was skipped today. - 2025, Saturday, June 7th
+- On Capitalist Mars today, I made a small amount of progress, playing for a short amount of time, before wrapping up, and leaving for the weekly event. - 2025, Saturday, June 14th
 
 </details>
 
-- On Capitalist Mars today, I made a small amount of progress, playing for a short amount of time, before wrapping up, and leaving for the weekly event. - 2025, Saturday, June 14th
-- My session was skipped today. - 2025, Saturday, June 21st
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, June 28th
 
 </details>
 
@@ -719,7 +720,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, June 28th at 02:19 pm PST)`
+**File version:** `2 (2025, Sunday, June 29th at 02:12 pm PST)`
 
 </details>
 
