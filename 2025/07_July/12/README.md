@@ -136,7 +136,9 @@ TOO LONG
 
 </details>
 
-- I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it. - 2025, Saturday, July 12th
+- ~~I did not play the game yet today, I plan to play after 10:00 pm, I am still deciding on it.~~
+- I didn't have the time to play again this week, as work went too late into the night, and gameplay with both games combined would have gone too far into the early morning. - 2025, Saturday, July 12th
+
 
 ***
 
@@ -187,7 +189,7 @@ TOO LONG
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 5th
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 12th
 
 </details>
 
@@ -256,7 +258,7 @@ TOO LONG
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 5th
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 12th
 
 </details>
 
@@ -319,7 +321,7 @@ TOO LONG
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 5th
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 12th
 
 </details>
 
@@ -395,7 +397,7 @@ TOO LONG
 
 </details>
 
-- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 5th
+- My session was skipped today. - 2025, Saturday, June 21st to 2025, Saturday, July 12th
 
 </details>
 
@@ -723,7 +725,7 @@ Why do I still play, even though I have completed the Moon and Mars? I like this
 
 <details open><summary><p><b>[Click/tap here to expand/collapse file info section]</b></p></summary>
 
-**File version:** `1 (2025, Saturday, July 12th at 02:14 pm PST)`
+**File version:** `2 (2025, Sunday, July 13th at 03:17 pm PST)`
 
 </details>
 
